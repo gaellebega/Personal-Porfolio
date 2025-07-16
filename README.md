@@ -1,1 +1,1 @@
-# Personal-Porfolio
+# Personal-Porfolio this is my personal portfolio project made using html and css and simple javascript for the navbar! made by Ishami Gaelle Bega from scratch
